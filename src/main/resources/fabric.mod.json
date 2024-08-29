@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "plushies",
+	"version": "${version}",
+	"name": "Plushies",
+	"description": "Adding Plushies",
+	"authors": [
+		"Owner - PrangellPlays"
+	],
+	"license": "PrangellPlays",
+	"icon": "assets/plushies/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.prangellplays.plushies.Plushies"
+		],
+		"client": [
+			"dev.prangellplays.plushies.PlushiesClient"
+		]
+	},
+	"mixins": [
+		"plushies.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.2",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

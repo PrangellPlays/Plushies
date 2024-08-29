@@ -1,0 +1,8 @@
+{
+  "sounds.plushies.plushie_squeak": {
+    "sounds": [
+      "plushies:block/plushie_squeak"
+    ],
+    "subtitle": "subtitles.plushies.block.plushie_squeak"
+  }
+}

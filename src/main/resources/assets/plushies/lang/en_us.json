@@ -1,0 +1,24 @@
+{
+  "__Comment": "Plushies",
+  "block.plushies.plushie": "Plushie",
+  "block.plushies.plushie_baseplate": "Plushie",
+  "block.plushies.plushie_prangellplays": "Plushie",
+  "block.plushies.plushie_creeper": "Plushie",
+
+  "__Comment": "Plushies Types",
+  "block.plushies.plushie_baseplate.type": "Baseplate",
+  "block.plushies.plushie_prangellplays.type": "PrangellPlays",
+  "block.plushies.plushie_creeper.type": "Creeper",
+
+  "__Comment": "Subtitles",
+  "subtitles.plushies.block.plushie_squeak": "Plushie Squeaks",
+
+  "__Comment": "Item Groups",
+  "itemgroup.plushies.items": "Plushies",
+
+  "__Comment": "Midnight Config",
+  "plushies.midnightconfig.title": "Plushies",
+  "plushies.midnightconfig.category.plushies": "Plushies",
+  "plushies.midnightconfig.plushieSound": "Plushies Sound",
+  "plushies.midnightconfig.creeperPlushieExplosion": "Creeper plushie explosion"
+}

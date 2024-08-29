@@ -1,0 +1,8 @@
+{
+	"parent": "plushies:block/plushie",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "plushies:block/plushie_prangellplays",
+		"particle": "block/white_wool"
+	}
+}

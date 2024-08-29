@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "plushies:block/plushie_prangellplays",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "plushies:block/plushie_prangellplays"
+    },
+    "facing=south": {
+      "model": "plushies:block/plushie_prangellplays",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "plushies:block/plushie_prangellplays",
+      "y": 270
+    }
+  }
+}

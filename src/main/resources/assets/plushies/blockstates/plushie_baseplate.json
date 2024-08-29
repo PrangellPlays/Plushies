@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "plushies:block/plushie_baseplate",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "plushies:block/plushie_baseplate"
+    },
+    "facing=south": {
+      "model": "plushies:block/plushie_baseplate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "plushies:block/plushie_baseplate",
+      "y": 270
+    }
+  }
+}
